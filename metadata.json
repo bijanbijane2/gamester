@@ -1,0 +1,8 @@
+{
+  "name": "Remix ذهن و واژه | آزمایشگاه بازی‌های شناختی و سرگرمی",
+  "description": "مجموعه جامع بازی‌های زبانی، آزمون‌های شناختی، ریسک و تصمیم‌گیری، پرونده‌های رفتاری و چالش رمز روز",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
